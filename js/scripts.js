@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Executive Learning Solutions Consultant.", "Sales and Editorial Representitave", "Christina Rostek."],    /* You can change the home section typing text from
+            strings: ["Executive Learning Solutions Consultant.", "Publishing Sales", "Technology", "Christina Rostek."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 65
           });
